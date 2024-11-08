@@ -1,0 +1,1 @@
+"# landing-page-1"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/loganathanramsaran/landing-page-1.gitgit push -u origin mainecho "# landing-page-1" 
