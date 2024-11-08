@@ -1,0 +1,253 @@
+*{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.container{
+    margin: auto;
+    background-color: #fefcfb;
+    height: 1050px;
+    width: 1920px;
+    padding-bottom: 10px;
+    /* background-color: #797777; */
+}
+.navbar{
+    
+        border: none;
+        padding: 20px;
+        margin: auto;
+        display: grid;
+        grid-template-columns: auto auto auto;
+        /* background-color: aqua; */
+        justify-items: center;
+        align-items: baseline;
+        align-content: center;
+}
+   
+.navbar-options{
+    display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   cursor: pointer;
+}
+.logo{
+    height: 30px;
+    width: 165px;
+    cursor: pointer;
+}
+.log-in{
+    width: auto;
+    margin-right: auto;
+    cursor: pointer;
+}
+.button{
+    border: none;
+    background-color: #FA7436;
+    height: 50px;
+    width: 160px;
+    color: #FFFFFF;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.man-image{
+    height: 785px;
+    width: 585px;
+}
+.discover-button{
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    border-color: #FA7436;
+    background-color: white;
+    cursor: pointer;
+}
+
+.index{
+    display: grid;
+    grid-template-columns: 50% 50%;
+
+}
+/* .contents{
+    width: 486px;
+    height: 521px;
+} */
+
+.navbar2 {
+    padding: auto;
+    margin: auto;
+    height: 124px;
+    width: 70%;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: space-evenly;
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+}
+.nav-options {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.dropdown{
+    position: relative;
+}
+
+.button2{
+    border: none;
+    background-color: #FA7436;
+    height: 60px;
+    width: 165px;
+    color: #FFFFFF;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.container2{
+    margin: auto;
+    height: 724px;
+    width: 1920px;
+    background-color: #f7f8fc;
+    justify-items: center;
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+}
+
+.content2{
+    padding-top: 100px;
+    font-size: 50px;
+
+}
+
+.card{
+    height: 100px;
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+}
+
+.cnt2content{
+    text-align: center;
+    font-size: 20px;
+
+}
+.flex-container {
+    background-color: #f7f8fc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.flex-container>.logo{
+  box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+  background-color:white ;
+  align-content:baseline;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+.flex-container > div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    height: 200px;
+    width: 300px;
+    /* padding: 150px; */
+}
+.container3{
+    margin: auto;
+    height: 950px;
+    border: 2px;
+    width: 1920px;
+    justify-items: center;
+}
+.container3_card{
+    cursor: pointer;
+}
+.container4{
+    margin: auto;
+    height: 893px;
+    width: 1920px;
+    justify-items: center;
+
+}
+.card4{
+    display: flex;
+    flex-direction: row;
+    padding-top: 50px;
+    cursor: pointer;
+
+}
+.container5{
+    margin: auto;
+    height: 596px;
+    width: 1920px;
+    justify-items: center;
+    background-color: #f7f8fc;
+
+}
+.content4{
+    padding-top: 100px;
+}
+.container6{
+    margin: auto;
+    height: 805px;
+    width: 1920px;
+    justify-items: center;
+}
+.card5{
+    display: flex;
+    flex-direction: row;
+    padding-top: 50px;
+    cursor: pointer;
+}
+.container7{
+    margin: auto;
+    width: 1170px;
+    height: 416px;
+    background-color: #fa7436;
+    justify-items: center;
+    border-radius: 15px;
+}
+.c7content{
+    padding-top: 80px;
+    font-size: 50px;
+    color: #FFFFFF;
+    font-weight: bolder;
+}
+.subscribe{
+    padding-top: 50px;
+}
+.c8content{
+    font-size: 50px;
+    color: #FFFFFF;
+    font-weight: bolder;
+}
+.emails{
+    width: 674px;
+    height: 68px;
+}
+.container8 {
+    margin: auto;
+    width: 1305px;
+    height: 600px;
+}
+.c8{
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.c0{
+    padding-top: 125px;
+    width: 254px;
+    height: 176px;
+}
+.c1{
+    padding-top: 125px;
+    width: 598px;
+    height: 210px;
+}
+.border{
+    padding: 30px;
+    width: 1170px;
+    height: o;
+}
+.cf{
+    width: 1172px;
+    height: 25px;
+}
